@@ -125,6 +125,9 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank [Microverse Inc](https://www.github.com/microverseinc) for providing the project requirements and materials.
 
 
 ## ❓ FAQ <a name="faq"></a>
